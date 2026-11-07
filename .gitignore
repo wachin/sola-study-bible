@@ -78,3 +78,6 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
+# 8vo
+8vo/
+
