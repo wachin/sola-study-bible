@@ -81,3 +81,6 @@ CMakeLists.txt.user*
 # 8vo
 8vo/
 
+# private modules of the user
+private_modules/home_user_MyBibleModules/
+
