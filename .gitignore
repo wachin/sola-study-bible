@@ -72,6 +72,9 @@ CMakeLists.txt.user*
 
 # Python byte code
 *.pyc
+__pycache__/
+.pytest_cache/
+.venv/
 
 # Binaries
 # --------
@@ -81,6 +84,7 @@ CMakeLists.txt.user*
 # 8vo
 8vo/
 
-# private modules of the user
-private_modules/home_user_MyBibleModules/
+# Private module corpus: only the README is tracked
+private_modules/*
+!private_modules/README.md
 
