@@ -1,0 +1,3 @@
+[submodule "libs/pyqt6-linguistic-tools"]
+	path = libs/pyqt6-linguistic-tools
+	url = https://github.com/wachin/pyqt6-linguistic-tools
