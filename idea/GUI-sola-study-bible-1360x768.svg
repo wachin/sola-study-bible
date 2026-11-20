@@ -32,9 +32,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.26989066"
-     inkscape:cx="1244.9486"
-     inkscape:cy="292.71113"
+     inkscape:zoom="0.67447917"
+     inkscape:cx="680.5251"
+     inkscape:cy="384"
      inkscape:window-width="1360"
      inkscape:window-height="719"
      inkscape:window-x="0"
@@ -78,11 +78,20 @@
          stroke-width="1.666" />
       <rect
          id="rect2"
+         x="679.21851"
+         y="0"
+         width="680.26746"
+         height="26.169001"
+         fill="#333333"
+         style="stroke-width:0.70738" />
+      <rect
+         id="rect2-6"
          x="0"
          y="0"
-         width="1359.486"
+         width="679.21851"
          height="26.169001"
-         fill="#333333" />
+         fill="#333333"
+         style="stroke-width:0.706834" />
       <g
          id="g69">
         <text
@@ -399,17 +408,17 @@
          style="font-size:18.6667px;white-space:pre;inline-size:836.436;display:inline"><tspan
            x="0"
            y="0"
-           id="tspan41"><tspan
+           id="tspan11"><tspan
    style="fill:#008000"
-   id="tspan15">8</tspan><tspan
+   id="tspan8">8</tspan><tspan
    style="font-weight:normal;fill:#000000"
-   id="tspan37"> sabiendo que el bien que cada uno hiciere, ése recibirá del Señor,</tspan>
+   id="tspan10"> sabiendo que el bien que cada uno hiciere, ése recibirá del Señor,</tspan>
 </tspan><tspan
            x="0"
            y="23.333376"
-           id="tspan43"><tspan
+           id="tspan14"><tspan
              style="font-weight:normal;fill:#000000"
-             id="tspan42"> sea siervo o sea libre.</tspan></tspan></text>
+             id="tspan12"> sea siervo o sea libre.</tspan></tspan></text>
       <text
          id="text24"
          transform="translate(14.586,178.433)"
@@ -439,13 +448,13 @@
          style="font-size:18.6667px;white-space:pre;inline-size:733.914;display:inline"><tspan
            x="0"
            y="0"
-           id="tspan81"><tspan
+           id="tspan16"><tspan
    style="font-weight:bold;fill:#008000"
-   id="tspan59">10</tspan> Por lo demás, hermanos míos, fortaleceos en el Señor, y en el 
+   id="tspan15">10</tspan> Por lo demás, hermanos míos, fortaleceos en el Señor, y en el 
 </tspan><tspan
            x="0"
            y="23.333376"
-           id="tspan82">poder de su fuerza.</tspan></text>
+           id="tspan19">poder de su fuerza.</tspan></text>
       <text
          id="text26"
          transform="translate(14.586,211.707)"
@@ -485,9 +494,18 @@
          id="rect42"
          x="0"
          y="384"
-         width="1360"
+         width="680.3645"
          height="26.169001"
-         fill="#4a4a4a" />
+         fill="#4a4a4a"
+         style="stroke-width:0.707296" />
+      <rect
+         id="rect42-5"
+         x="680"
+         y="384"
+         width="680"
+         height="26.169001"
+         fill="#4a4a4a"
+         style="stroke-width:0.707107" />
       <text
          id="text43"
          transform="matrix(1.009,0,0,1,4.661,400.945)"
@@ -552,14 +570,6 @@
          fill="#000000"
          stroke="#ffffff"
          stroke-width="1.499" />
-      <line
-         id="line48"
-         x1="2165.0969"
-         y1="582.03802"
-         x2="2165.0969"
-         y2="1042.038"
-         fill="#000000"
-         stroke="#b0a080" />
       <g
          id="dictionary-text"
          transform="matrix(0.92684514,0,0,0.92684514,1.0440541,31.365768)">
@@ -845,77 +855,77 @@
          style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#008000;stroke:#4a4a4a;stroke-width:1.049"><tspan
            x="690.9043"
            y="51.083977"
-           id="tspan84"><tspan
+           id="tspan21"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan83">Efesios 6:1-4 - Los deberes de hijos y padres
+             id="tspan20">Efesios 6:1-4 - Los deberes de hijos y padres
 </tspan></tspan><tspan
            x="690.9043"
            y="74.417351"
-           id="tspan86"><tspan
+           id="tspan23"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan85">El gran deber de los hijos es obedecer a sus padres. La obediencia </tspan></tspan><tspan
+             id="tspan22">El gran deber de los hijos es obedecer a sus padres. La obediencia </tspan></tspan><tspan
            x="690.9043"
            y="97.750725"
-           id="tspan88"><tspan
+           id="tspan25"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan87">comprende la reverencia interna y los actos externos, y en toda época la </tspan></tspan><tspan
+             id="tspan24">comprende la reverencia interna y los actos externos, y en toda época la </tspan></tspan><tspan
            x="690.9043"
            y="121.0841"
-           id="tspan90"><tspan
+           id="tspan27"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan89">prosperidad ha acompañado a los que se distinguen por obedecer a sus </tspan></tspan><tspan
+             id="tspan26">prosperidad ha acompañado a los que se distinguen por obedecer a sus </tspan></tspan><tspan
            x="690.9043"
            y="144.41747"
-           id="tspan92"><tspan
+           id="tspan29"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan91">padres.
+             id="tspan28">padres.
 </tspan></tspan><tspan
            x="690.9043"
            y="167.75085"
-           id="tspan94"><tspan
+           id="tspan31"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan93">
+             id="tspan30">
 </tspan></tspan><tspan
            x="690.9043"
            y="191.08422"
-           id="tspan96"><tspan
+           id="tspan37"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan95">El deber de los padres. No seáis impacientes ni uséis severidades </tspan></tspan><tspan
+             id="tspan32">El deber de los padres. No seáis impacientes ni uséis severidades </tspan></tspan><tspan
            x="690.9043"
            y="214.41759"
-           id="tspan98"><tspan
+           id="tspan42"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan97">irracionales. Tratad a vuestos hijos con prudencia y sabiduría; </tspan></tspan><tspan
+             id="tspan41">irracionales. Tratad a vuestos hijos con prudencia y sabiduría; </tspan></tspan><tspan
            x="690.9043"
            y="237.75097"
-           id="tspan100"><tspan
+           id="tspan59"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan99">convencedlos en sus juicios y obrad en la razón de ellos. Criadlos bien; </tspan></tspan><tspan
+             id="tspan43">convencedlos en sus juicios y obrad en la razón de ellos. Criadlos bien; </tspan></tspan><tspan
            x="690.9043"
            y="261.08434"
-           id="tspan102"><tspan
+           id="tspan61"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan101">bajo la corrección apropiada y compasiva, y en el conocimiento del deber </tspan></tspan><tspan
+             id="tspan60">bajo la corrección apropiada y compasiva, y en el conocimiento del deber </tspan></tspan><tspan
            x="690.9043"
            y="284.41772"
-           id="tspan104"><tspan
+           id="tspan63"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan103">que Dios exige. Este deber es frecuentemente descuidado hasta entre los </tspan></tspan><tspan
+             id="tspan62">que Dios exige. Este deber es frecuentemente descuidado hasta entre los </tspan></tspan><tspan
            x="690.9043"
            y="307.75109"
-           id="tspan106"><tspan
+           id="tspan65"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan105">que profesan el evangelio.Muchos ponen a sus hijos en contra de la </tspan></tspan><tspan
+             id="tspan64">que profesan el evangelio.Muchos ponen a sus hijos en contra de la </tspan></tspan><tspan
            x="690.9043"
            y="331.08447"
-           id="tspan108"><tspan
+           id="tspan67"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan107">religión, pero esto no excusa la desobediencia de los hijos aunque </tspan></tspan><tspan
+             id="tspan66">religión, pero esto no excusa la desobediencia de los hijos aunque </tspan></tspan><tspan
            x="690.9043"
            y="354.41784"
-           id="tspan110"><tspan
+           id="tspan69"><tspan
              style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
-             id="tspan109">lamentablemente pueda ocasionarla. </tspan></tspan></text>
+             id="tspan68">lamentablemente pueda ocasionarla. </tspan></tspan></text>
     </g>
     <line
        id="path76"
@@ -938,13 +948,13 @@
        style="font-size:18.6667px;white-space:pre;inline-size:877.223;display:inline"><tspan
          x="0"
          y="0"
-         id="tspan112"><tspan
+         id="tspan71"><tspan
    style="font-weight:bold;fill:#008000"
-   id="tspan111">11</tspan> Vestíos de toda la armadura de Dios, para que podáis estar 
+   id="tspan70">11</tspan> Vestíos de toda la armadura de Dios, para que podáis estar 
 </tspan><tspan
          x="0"
          y="23.333376"
-         id="tspan113"> firmes contra las asechanzas del diablo</tspan></text>
+         id="tspan72"> firmes contra las asechanzas del diablo</tspan></text>
   </g>
   <metadata
      id="metadata19">
