@@ -11,8 +11,8 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 # Only these public sample modules may be tracked in the public repository.
 ALLOWED_MODULE_FILES = {
-    "data/KJV1611.SQLite3",
-    "data/KJV+.SQLite3",
+    "public_modules/KJV1611.SQLite3",
+    "public_modules/KJV+.SQLite3",
 }
 
 

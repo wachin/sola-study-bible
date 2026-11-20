@@ -8,5 +8,5 @@ A program to Study the Bible working with MyBible Modules
 
 ## Testing
 
-Public tests use committed fixtures and the sample modules under `data/`. To run the optional full-corpus tests against a private MyBible module repository, see [private_modules/README.md](private_modules/README.md).
+Public tests use committed fixtures and the sample modules under `public_modules/`. To run the optional full-corpus tests against a private MyBible module repository, see [private_modules/README.md](private_modules/README.md).
 

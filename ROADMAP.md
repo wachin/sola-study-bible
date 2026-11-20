@@ -47,7 +47,7 @@ Sola Study Bible is a Linux desktop Bible study application written in Python 3.
 - The repository is GPLv3. [LICENSE](LICENSE) must ship with source and binary distributions, and the source for distributed binaries must remain available.
 - Every source file, icon, theme, font, and document added to the repository must have a GPLv3-compatible license. Third-party assets need a provenance entry in `docs/ASSETS.md` and a compatible license.
 - Bible modules are user-supplied data, not application assets. The app opens them read-only from a configurable directory and never writes into that directory.
-- The public repository may contain only modules whose redistribution rights are confirmed. The two modules under `data/` are public development samples; their provenance must be recorded before they are distributed in a source archive, and they must never be bundled into an installed application or binary package.
+- The public repository may contain only modules whose redistribution rights are confirmed. The two modules under `public_modules/` are public development samples; their provenance must be recorded before they are distributed in a source archive, and they must never be bundled into an installed application or binary package.
 - Binary release artifacts contain no Bible modules at all. The user points the installed application at their own module directory on first run.
 - PyQt6 is GPLv3 (with a commercial alternative), so the GPLv3 application license is compatible. Any optional dependency added later must be checked for GPLv3 compatibility before adoption.
 
@@ -188,7 +188,7 @@ Module link targets (`B:`, `S:`, `C:@`, and external URLs) are rewritten to thes
 - [x] **M0.2** `README.md` exists with the project name and a one-line description.
 - [x] **M0.3** MyBible format documentation ([MyBible Modules Format](<resources/mybible/MyBible Modules Format.md>)), the [user guide PDF](<resources/mybible/MyBible Guidebook by DanielVanLeeuwen v2.pdf>), and supplementary help PDFs are present under `resources/mybible/`.
 - [x] **M0.4** The four-pane GUI mockup is present at `idea/GUI-idea.png` (1456 × 1064).
-- [x] **M0.5** Public sample modules are present at `data/KJV1611.SQLite3` (31,102 verses, `books_all` table) and `data/KJV+.SQLite3` (31,102 verses, `books` table, `strong_numbers=true`).
+- [x] **M0.5** Public sample modules are present at `public_modules/KJV1611.SQLite3` (31,102 verses, `books_all` table) and `public_modules/KJV+.SQLite3` (31,102 verses, `books` table, `strong_numbers=true`).
 - [ ] **M0.6** Write `docs/SPEC.md`: module suffixes, INFO keys, table schemas including optional-column variations, supported tags, link grammar, NF1/NF2/NF0 rules, and commentary range semantics.
 - [ ] **M0.7** Update `README.md` for Python 3.11+, PyQt6, GPLv3, the module-directory policy, setup, run, and test commands. The current badge still says Python 3.8+.
 - [ ] **M0.8** Add `pyproject.toml` with project metadata, the chosen GPLv3 SPDX license expression, dependencies (`PyQt6`, `markdown`), and dev dependencies (`pytest`, `pytest-qt`, `ruff`); pin exact versions in `constraints.txt`.
@@ -593,7 +593,7 @@ Module link targets (`B:`, `S:`, `C:@`, and external URLs) are rewritten to thes
 | Qt rich text supports only a subset of HTML/CSS; module articles may render differently from the reference app. | Medium–high | Build a corpus of real dictionary/commentary articles; add golden rendering tests; sanitize and normalize; record fallback criteria for an optional QtWebEngine mode in ADR-0001. |
 | Module HTML is untrusted and may contain scripts, remote resources, or pathological markup. | High | Allowlist sanitizer, no JavaScript engine, blocked remote loads, size limits, and XSS tests in M3/M4/M5/M6. |
 | Large modules make initial indexing or search slow. | Medium | Background workers, incremental indexes, B-tree indexes, atomic swaps, progress/cancel, and benchmarks with the 31k-verse samples and a 14k-topic dictionary. |
-| Proprietary modules or unverified sample provenance leak into a release. | High | Read-only runtime loading, `.gitignore` rules, a release audit that rejects every module database, and a documented provenance check for `data/` samples. |
+| Proprietary modules or unverified sample provenance leak into a release. | High | Read-only runtime loading, `.gitignore` rules, a release audit that rejects every module database, and a documented provenance check for `public_modules/` samples. |
 | A dependency or asset is not GPLv3-compatible. | High | License inventory, SPDX headers, `reuse`-style checks, and a release gate for third-party notices. |
 | Frameless windows behave poorly on some Wayland/GNOME configurations. | Medium | Test X11 and Wayland; use `startSystemMove`/`startSystemResize`; ship a native-frame fallback and document it. |
 | Touch scrolling conflicts with text selection and inline-link taps. | Medium | `QScroller`, tap/drag thresholds, long-press for selection, generous line height for links, and a manual touchscreen checklist. |
@@ -614,7 +614,7 @@ Module link targets (`B:`, `S:`, `C:@`, and external URLs) are rewritten to thes
 4. **Window chrome:** should frameless be the default on every desktop, or only where the compositor supports system move/resize cleanly?
 5. **Lookup index location:** one central index for all dictionaries, or one index per module? Central is simpler to query; per-module is easier to invalidate.
 6. **Minimum screen:** is 1366 × 768 the true minimum, and is portrait orientation supported? This affects pane minimums and toolbar overflow.
-7. **Sample provenance:** are `data/KJV1611.SQLite3` and `data/KJV+.SQLite3` cleared for release-artifact redistribution, or should they remain development-only samples?
+7. **Sample provenance:** are `public_modules/KJV1611.SQLite3` and `public_modules/KJV+.SQLite3` cleared for release-artifact redistribution, or should they remain development-only samples?
 8. **License identifier:** is the project `GPL-3.0-only` or `GPL-3.0-or-later`? The current `LICENSE` is the GPLv3 text, but the "or later" choice must be explicit in `pyproject.toml` and source headers.
 9. **Bundle behavior:** should `.bundle.zip` import copy modules into the user's module directory, or register them in place? Copying is safer but duplicates data.
 10. **Search semantics:** should search ignore accents and diacritics by default, and should results rank by relevance or canonical order?

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1360"
+   height="768"
+   viewBox="0 0 1360 768"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="GUI-sola-study-bible-1360x768.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs70">
+    <rect
+       x="690.90344"
+       y="34.100388"
+       width="656.8031"
+       height="333.59073"
+       id="rect83" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview70"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.26989066"
+     inkscape:cx="1244.9486"
+     inkscape:cy="292.71113"
+     inkscape:window-width="1360"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="MyBible" />
+  <title
+     id="title1">GUI-sola-study-bible-1360x768.svg</title>
+  <g
+     id="Layer_1"
+     data-name="Layer 1">
+    <polygon
+       id="rect574"
+       points="680.116,383.752 0.254,383.752 0.254,383.752 0.254,26.169 680.116,26.169 680.116,383.752 "
+       fill="#e6d5b8"
+       stroke="#e6d5b8"
+       stroke-width="0.497" />
+    <polygon
+       id="rect590"
+       points="1360,384 680,384 680,384 680,26.169 1360,26.169 1360,384 "
+       fill="#e6d5b8" />
+    <polygon
+       id="rect616"
+       points="680,768 0,768 0,768 0,410.169 680,410.169 680,768 "
+       fill="#e6d5b8" />
+    <polygon
+       id="rect618"
+       points="1360,768 680,768 680,768 680,410.169 1360,410.169 1360,768 "
+       fill="#e8d5b7" />
+    <g
+       id="MyBible"
+       data-vc-layer="sublayer">
+      <line
+         id="line4"
+         x1="216.13499"
+         y1="17.153"
+         x2="222.847"
+         y2="23.858"
+         fill="#000000"
+         stroke="#ffffff"
+         stroke-width="1.666" />
+      <rect
+         id="rect2"
+         x="0"
+         y="0"
+         width="1359.486"
+         height="26.169001"
+         fill="#333333" />
+      <g
+         id="g69">
+        <text
+           id="text2"
+           transform="translate(30.001,17.456)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="12.308px"
+           font-weight="bold"
+           fill="#ffffff"><tspan
+             x="0"
+             y="0"
+             id="tspan1">RVR60</tspan></text>
+        <path
+           id="rect3"
+           d="m 90.001,3.61 h 22.308 c 1.274,0 2.308,1.033 2.308,2.307 v 14.616 c 0,1.274 -1.034,2.307 -2.308,2.307 H 90.001 c -1.274,0 -2.307,-1.033 -2.307,-2.307 V 5.917 c 0,-1.274 1.033,-2.307 2.307,-2.307 z"
+           fill="#555555"
+           stroke="#888888"
+           stroke-width="0.769" />
+        <text
+           id="text3"
+           transform="translate(93.847,17.456)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="12.308px"
+           font-weight="bold"
+           fill="#ffffff"><tspan
+             x="0"
+             y="0"
+             id="tspan2">+</tspan></text>
+        <text
+           id="text4"
+           x="134.155"
+           y="17.455999"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="12.308px"
+           font-weight="bold"
+           fill="#ffffff"><tspan
+             x="134.155"
+             y="17.455999"
+             id="tspan3">Efesios 6:6</tspan></text>
+        <g
+           id="g19"
+           transform="translate(20)">
+          <rect
+             id="rect4"
+             x="195.386"
+             y="5.1479998"
+             width="16.923"
+             height="16.923"
+             fill="none"
+             stroke="#ffffff"
+             stroke-width="1.538" />
+          <polyline
+             id="path4"
+             points="197.694,12.84 200.77,16.687 209.232,7.456"
+             fill="none"
+             stroke="#ffffff"
+             stroke-width="1.538" />
+        </g>
+        <circle
+           id="circle4"
+           cx="253.847"
+           cy="12.84"
+           r="6.1539998"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="1.538" />
+        <path
+           id="path5"
+           d="m 284.617,12.84 h 11.538 m -7.692,-3.846 -3.846,3.846 3.846,3.847"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="1.538" />
+        <path
+           id="path6"
+           d="m 307.694,12.84 h 11.538 m -3.846,-3.846 3.846,3.846 -3.846,3.847"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="1.538" />
+        <circle
+           id="circle6"
+           cx="346.155"
+           cy="12.84"
+           r="7.6919999"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="1.538" />
+        <line
+           id="line6"
+           x1="346.155"
+           y1="12.84"
+           x2="346.155"
+           y2="7.4559999"
+           fill="#000000"
+           stroke="#ffffff"
+           stroke-width="1.538" />
+        <line
+           id="line7"
+           x1="346.155"
+           y1="12.84"
+           x2="350.00101"
+           y2="15.148"
+           fill="#000000"
+           stroke="#ffffff"
+           stroke-width="1.538" />
+        <g
+           id="g18"
+           transform="translate(20)">
+          <circle
+             id="circle7"
+             cx="353.078"
+             cy="12.84"
+             r="1.538"
+             fill="#ffffff" />
+          <circle
+             id="circle8"
+             cx="360.76999"
+             cy="12.84"
+             r="1.538"
+             fill="#ffffff" />
+          <circle
+             id="circle9"
+             cx="368.46301"
+             cy="12.84"
+             r="1.538"
+             fill="#ffffff" />
+        </g>
+      </g>
+      <g
+         id="g73">
+        <g
+           id="g72">
+          <g
+             id="g70">
+            <text
+               id="text9"
+               transform="translate(687.334,17.488)"
+               x="0"
+               y="0"
+               xml:space="preserve"
+               font-family="sans-serif"
+               font-size="12.301px"
+               font-weight="bold"
+               fill="#ffffff"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan4">CMH-c</tspan></text>
+            <text
+               id="text10"
+               x="746.685"
+               y="17.488001"
+               xml:space="preserve"
+               font-family="sans-serif"
+               font-size="12.301px"
+               font-weight="bold"
+               fill="#ffffff"><tspan
+                 x="746.685"
+                 y="17.488001"
+                 id="tspan5">Efesios</tspan></text>
+            <polygon
+               id="polygon10"
+               points="802.66,10.569 798.816,14.413 800.353,20.563 794.972,16.719 789.59,20.563 791.127,14.413 787.283,10.569 792.665,10.569 794.972,5.187 797.278,10.569 "
+               fill="none"
+               stroke="#ffffff"
+               stroke-width="1.538"
+               transform="translate(20)" />
+            <g
+               id="g17">
+              <circle
+                 id="circle10"
+                 cx="845.72498"
+                 cy="12.875"
+                 r="6.151"
+                 fill="none"
+                 stroke="#ffffff"
+                 stroke-width="1.538" />
+              <line
+                 id="line10"
+                 x1="850.33801"
+                 y1="17.488001"
+                 x2="857.258"
+                 y2="25.177"
+                 fill="#000000"
+                 stroke="#ffffff"
+                 stroke-width="1.538" />
+            </g>
+            <g
+               id="g16"
+               transform="translate(20)">
+              <line
+                 id="line11"
+                 x1="864.16699"
+                 y1="5.1869998"
+                 x2="864.16699"
+                 y2="22.101"
+                 fill="#000000"
+                 stroke="#ffffff"
+                 stroke-width="1.538" />
+              <path
+                 id="rect10"
+                 d="m 858.017,5.187 h 12.301 c 0.408,0 0.799,0.162 1.087,0.45 0.289,0.288 0.451,0.679 0.451,1.087 v 13.839 c 0,0.408 -0.162,0.799 -0.451,1.088 -0.288,0.288 -0.679,0.45 -1.087,0.45 h -12.301 c -0.408,0 -0.799,-0.162 -1.088,-0.45 -0.288,-0.289 -0.45,-0.68 -0.45,-1.088 V 6.724 c 0,-0.408 0.162,-0.799 0.45,-1.087 0.289,-0.288 0.68,-0.45 1.088,-0.45 z"
+                 fill="none"
+                 stroke="#ffffff"
+                 stroke-width="1.538" />
+            </g>
+            <g
+               id="g15"
+               transform="translate(20)">
+              <path
+                 id="rect12"
+                 d="m 900.303,9.031 h 1.538 c 2.123,0 3.844,1.721 3.844,3.844 v 0 c 0,2.123 -1.721,3.844 -3.844,3.844 h -1.538 c -2.123,0 -3.844,-1.721 -3.844,-3.844 v 0 c 0,-2.123 1.721,-3.844 3.844,-3.844 z"
+                 fill="#ffffff" />
+              <path
+                 id="rect11"
+                 d="m 900.303,7.493 h 12.301 c 2.973,0 5.382,2.41 5.382,5.382 v 0 c 0,2.972 -2.409,5.382 -5.382,5.382 h -12.301 c -2.972,0 -5.382,-2.41 -5.382,-5.382 v 0 c 0,-2.972 2.41,-5.382 5.382,-5.382 z"
+                 fill="none"
+                 stroke="#ffffff"
+                 stroke-width="1.538" />
+            </g>
+            <polyline
+               id="path12"
+               points="948.74,9.031 956.428,16.719 964.117,9.031"
+               fill="none"
+               stroke="#ffffff"
+               stroke-width="1.538"
+               transform="translate(24)" />
+            <path
+               id="path13"
+               d="m 1233.182,7.493 11.533,11.533 m 0,-11.533 -11.533,11.533"
+               fill="#000000"
+               stroke="#ffffff"
+               stroke-width="1.538" />
+          </g>
+        </g>
+      </g>
+      <rect
+         id="rect13"
+         x="1298.1233"
+         y="2.674366"
+         width="26.425344"
+         height="19.494267"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="0.971"
+         style="stroke-width:1.52673;stroke-dasharray:none" />
+      <g
+         id="g5"
+         style="stroke:#ffffff;stroke-width:1.6;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.91327699,0,0,1.0035151,117.66124,-0.04366269)">
+        <rect
+           id="rect14"
+           x="1327.223"
+           y="2.711"
+           width="29.131001"
+           height="19.421"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="0.971"
+           style="stroke:#ffffff;stroke-width:1.6;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path14"
+           d="m 1336.933,7.566 9.711,9.711 m 0,-9.711 -9.711,9.711"
+           fill="#000000"
+           stroke="#ffffff"
+           stroke-width="0.971"
+           style="stroke:#ffffff;stroke-width:1.6;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <text
+         id="text16"
+         transform="translate(14.586,54.31)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096"
+         fill="#111111"
+         style="font-size:18.6667px"><tspan
+           x="0"
+           y="0"
+           id="tspan6"
+           style="font-size:18.6667px">haciendo la voluntad de Dios;</tspan></text>
+      <text
+         id="text17"
+         transform="translate(14.586,88.214)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="'Source Sans 3', sans-serif"
+         font-size="20"
+         fill="#008000"
+         style="font-size:18.6667px"><tspan
+           x="0"
+           y="0"
+           id="tspan7"
+           style="font-weight:normal;font-size:18.6667px;fill:#000000"><tspan
+   style="font-weight:bold;fill:#008000"
+   id="tspan78">7</tspan> sirviendo de buena voluntad, como al Señor y no a los hombres,</tspan></text>
+      <text
+         id="text19"
+         transform="translate(14.586,118.255)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096"
+         font-weight="bold"
+         fill="#2e7d32"
+         style="font-size:18.6667px;white-space:pre;inline-size:836.436;display:inline"><tspan
+           x="0"
+           y="0"
+           id="tspan41"><tspan
+   style="fill:#008000"
+   id="tspan15">8</tspan><tspan
+   style="font-weight:normal;fill:#000000"
+   id="tspan37"> sabiendo que el bien que cada uno hiciere, ése recibirá del Señor,</tspan>
+</tspan><tspan
+           x="0"
+           y="23.333376"
+           id="tspan43"><tspan
+             style="font-weight:normal;fill:#000000"
+             id="tspan42"> sea siervo o sea libre.</tspan></tspan></text>
+      <text
+         id="text24"
+         transform="translate(14.586,178.433)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096"
+         font-weight="bold"
+         fill="#2e7d32"
+         style="font-size:18.6667px"><tspan
+           x="0"
+           y="0"
+           id="tspan13"
+           style="font-weight:normal;font-size:18.6667px;fill:#000000"><tspan
+   style="font-weight:bold;fill:#008000"
+   id="tspan80">9</tspan> Y vosotros, amos, haced con ellos lo mismo, dejando las amenazas,</tspan></text>
+      <text
+         id="text25"
+         transform="translate(14.586,276.57)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096"
+         fill="#111111"
+         style="font-size:18.6667px;white-space:pre;inline-size:733.914;display:inline"><tspan
+           x="0"
+           y="0"
+           id="tspan81"><tspan
+   style="font-weight:bold;fill:#008000"
+   id="tspan59">10</tspan> Por lo demás, hermanos míos, fortaleceos en el Señor, y en el 
+</tspan><tspan
+           x="0"
+           y="23.333376"
+           id="tspan82">poder de su fuerza.</tspan></text>
+      <text
+         id="text26"
+         transform="translate(14.586,211.707)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096"
+         fill="#111111"
+         style="font-size:18.6667px"><tspan
+           x="0"
+           y="0"
+           id="tspan17"
+           style="font-size:18.6667px">sabiendo que el Señor de ellos y vuestro está en los cielos,  y que</tspan></text>
+      <text
+         id="text28"
+         transform="translate(221.723,279.991)"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096px"
+         fill="#111111" />
+      <text
+         id="text29"
+         transform="translate(14.586,245.214)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="serif"
+         font-size="21.096"
+         fill="#111111"
+         style="font-size:18.6667px"><tspan
+           x="0"
+           y="0"
+           id="tspan18"
+           style="font-size:18.6667px">para él no hay acepción de</tspan></text>
+      <rect
+         id="rect42"
+         x="0"
+         y="384"
+         width="1360"
+         height="26.169001"
+         fill="#4a4a4a" />
+      <text
+         id="text43"
+         transform="matrix(1.009,0,0,1,4.661,400.945)"
+         x="0"
+         y="0"
+         xml:space="preserve"
+         font-family="sans-serif"
+         font-size="11.936px"
+         font-weight="bold"
+         fill="#ffffff"><tspan
+           x="0"
+           y="0"
+           id="tspan33">EUNSA</tspan></text>
+      <polyline
+         id="path43"
+         points="56.366,396.976 60.13,400.707 67.66,391.754"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="1.499" />
+      <text
+         id="text44"
+         transform="scale(1.0044899,0.99553016)"
+         x="102.66805"
+         y="402.74521"
+         xml:space="preserve"
+         font-family="sans-serif"
+         font-size="11.9896px"
+         font-weight="bold"
+         fill="#ffffff"
+         style="stroke-width:1.00449"><tspan
+           x="102.66805"
+           y="402.74521"
+           id="tspan34"
+           style="stroke-width:1.00449">Día del Señor</tspan></text>
+      <path
+         id="path44"
+         d="m 205.772,391.484 h 7.529 v 7.461 m 7.529,0 h -7.529 v -7.461"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="1.499" />
+      <polygon
+         id="polygon44"
+         points="241.947,389.246 244.206,394.468 249.477,394.468 245.712,398.199 247.218,404.167 241.947,400.437 236.677,404.167 238.183,398.199 234.418,394.468 239.689,394.468 "
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="1.499" />
+      <path
+         id="path45"
+         d="m 290.887,395.215 h -11.294 m 3.765,-3.731 -3.765,3.731 3.765,3.73"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="1.499" />
+      <polyline
+         id="path46"
+         points="317.24,391.484 324.769,398.945 332.298,391.484"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="1.499" />
+      <path
+         id="path47"
+         d="m 660.415,389.246 11.294,11.937 m 0,-11.937 -11.294,11.937"
+         fill="#000000"
+         stroke="#ffffff"
+         stroke-width="1.499" />
+      <line
+         id="line48"
+         x1="2165.0969"
+         y1="582.03802"
+         x2="2165.0969"
+         y2="1042.038"
+         fill="#000000"
+         stroke="#b0a080" />
+      <g
+         id="dictionary-text"
+         transform="matrix(0.92684514,0,0,0.92684514,1.0440541,31.365768)">
+        <text
+           id="text48"
+           transform="matrix(0.986,0,0,1,15.989,448.424)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="25.673px"
+           font-weight="bold"
+           fill="#0000cc"><tspan
+             x="0"
+             y="0"
+             id="tspan35">Día del Señor</tspan></text>
+        <text
+           id="text49"
+           transform="matrix(0.986,0,0,1,15.989,512.607)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan36">ATIs  2,6-22, Ez 7,1-27 Jl 4,14-17, Am 5,18-20</tspan></text>
+        <text
+           id="text50"
+           transform="matrix(0.986,0,0,1,15.989,544.699)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan38">Ab 1,15-21 Ml 2,17-3,5 So 1,7-13;</tspan></text>
+        <text
+           id="text51"
+           transform="matrix(0.986,0,0,1,15.989,576.79)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan39">«Dies</tspan></text>
+        <text
+           id="text54"
+           transform="matrix(0.986,0,0,1,15.989,608.882)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan40">irae»:So 1,14-18; se acerca el d. del S.:  <tspan
+   style="fill:#00aa44"
+   id="tspan9">Jl</tspan></tspan></text>
+        <text
+           id="text55"
+           transform="matrix(0.986,0,0,1,15.989,640.973)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan44">2,1-2a</tspan></text>
+        <text
+           id="text56"
+           transform="scale(0.9929753,1.0070744)"
+           x="94.33371"
+           y="636.4704"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.3687px"
+           fill="#111111"
+           style="stroke-width:0.992975"><tspan
+             x="94.33371"
+             y="636.4704"
+             id="tspan45"
+             style="stroke-width:0.992975">; la efusión del Espíritu y el d. del S.:</tspan></text>
+        <text
+           id="text57"
+           transform="matrix(0.986,0,0,1,15.989,673.065)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan46">Jl 2,18-4,21</tspan></text>
+        <text
+           id="text58"
+           transform="matrix(0.986,0,0,1,163.678,673.065)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan47">; los justos y el d. del S.:</tspan></text>
+        <text
+           id="text59"
+           transform="matrix(0.986,0,0,1,474.881,673.065)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan48">Ml</tspan></text>
+        <text
+           id="text60"
+           transform="matrix(0.986,0,0,1,15.989,705.156)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan49">3,13-21</tspan></text>
+        <text
+           id="text61"
+           transform="matrix(0.986,0,0,1,105.658,705.156)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan50">; sobre Egipto:</tspan></text>
+        <text
+           id="text62"
+           transform="matrix(0.986,0,0,1,274.445,705.156)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan51">Ez 30,1-26</tspan></text>
+        <text
+           id="text63"
+           transform="matrix(0.986,0,0,1,395.761,705.156)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan52">;</tspan></text>
+        <text
+           id="text64"
+           transform="matrix(0.986,0,0,1,411.585,705.156)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan53">Is 2,11 Jl</tspan></text>
+        <text
+           id="text65"
+           transform="matrix(0.986,0,0,1,15.989,737.248)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan54">2,1</tspan></text>
+        <text
+           id="text66"
+           transform="matrix(0.986,0,0,1,52.912,737.248)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan55">;</tspan></text>
+        <text
+           id="text67"
+           transform="matrix(0.986,0,0,1,68.735,737.248)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan56">NT</tspan></text>
+        <text
+           id="text68"
+           transform="matrix(0.986,0,0,1,110.932,737.248)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           font-weight="bold"
+           fill="#33cc33"><tspan
+             x="0"
+             y="0"
+             id="tspan57">1 Ts 5,2</tspan></text>
+        <text
+           id="text69"
+           transform="matrix(0.986,0,0,1,200.601,737.248)"
+           x="0"
+           y="0"
+           xml:space="preserve"
+           font-family="sans-serif"
+           font-size="23.534px"
+           fill="#111111"><tspan
+             x="0"
+             y="0"
+             id="tspan58">Ver Domingo.</tspan></text>
+      </g>
+      <line
+         id="path77"
+         x1="680"
+         y1="410.16901"
+         x2="680"
+         y2="768"
+         fill="#4a4a4a"
+         stroke="#4a4a4a"
+         stroke-width="1.049" />
+      <line
+         x1="1267.1599"
+         y1="22.132"
+         x2="1293.512"
+         y2="22.132"
+         fill="#ed1c24"
+         stroke="#ffffff"
+         stroke-miterlimit="10"
+         id="line58"
+         style="stroke-width:1.52175;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         id="text83"
+         style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#008000;stroke:#4a4a4a;stroke-width:1.049"><tspan
+           x="690.9043"
+           y="51.083977"
+           id="tspan84"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan83">Efesios 6:1-4 - Los deberes de hijos y padres
+</tspan></tspan><tspan
+           x="690.9043"
+           y="74.417351"
+           id="tspan86"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan85">El gran deber de los hijos es obedecer a sus padres. La obediencia </tspan></tspan><tspan
+           x="690.9043"
+           y="97.750725"
+           id="tspan88"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan87">comprende la reverencia interna y los actos externos, y en toda época la </tspan></tspan><tspan
+           x="690.9043"
+           y="121.0841"
+           id="tspan90"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan89">prosperidad ha acompañado a los que se distinguen por obedecer a sus </tspan></tspan><tspan
+           x="690.9043"
+           y="144.41747"
+           id="tspan92"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan91">padres.
+</tspan></tspan><tspan
+           x="690.9043"
+           y="167.75085"
+           id="tspan94"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan93">
+</tspan></tspan><tspan
+           x="690.9043"
+           y="191.08422"
+           id="tspan96"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan95">El deber de los padres. No seáis impacientes ni uséis severidades </tspan></tspan><tspan
+           x="690.9043"
+           y="214.41759"
+           id="tspan98"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan97">irracionales. Tratad a vuestos hijos con prudencia y sabiduría; </tspan></tspan><tspan
+           x="690.9043"
+           y="237.75097"
+           id="tspan100"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan99">convencedlos en sus juicios y obrad en la razón de ellos. Criadlos bien; </tspan></tspan><tspan
+           x="690.9043"
+           y="261.08434"
+           id="tspan102"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan101">bajo la corrección apropiada y compasiva, y en el conocimiento del deber </tspan></tspan><tspan
+           x="690.9043"
+           y="284.41772"
+           id="tspan104"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan103">que Dios exige. Este deber es frecuentemente descuidado hasta entre los </tspan></tspan><tspan
+           x="690.9043"
+           y="307.75109"
+           id="tspan106"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan105">que profesan el evangelio.Muchos ponen a sus hijos en contra de la </tspan></tspan><tspan
+           x="690.9043"
+           y="331.08447"
+           id="tspan108"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan107">religión, pero esto no excusa la desobediencia de los hijos aunque </tspan></tspan><tspan
+           x="690.9043"
+           y="354.41784"
+           id="tspan110"><tspan
+             style="font-weight:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"
+             id="tspan109">lamentablemente pueda ocasionarla. </tspan></tspan></text>
+    </g>
+    <line
+       id="path76"
+       x1="679.74298"
+       y1="26.169001"
+       x2="680.11603"
+       y2="383.75201"
+       fill="#4a4a4a"
+       stroke="#4a4a4a"
+       stroke-width="1.049" />
+    <text
+       transform="translate(14.867,329.877)"
+       x="0"
+       y="0"
+       xml:space="preserve"
+       font-family="'Source Sans 3', sans-serif"
+       font-size="21"
+       fill="#000000"
+       id="text70"
+       style="font-size:18.6667px;white-space:pre;inline-size:877.223;display:inline"><tspan
+         x="0"
+         y="0"
+         id="tspan112"><tspan
+   style="font-weight:bold;fill:#008000"
+   id="tspan111">11</tspan> Vestíos de toda la armadura de Dios, para que podáis estar 
+</tspan><tspan
+         x="0"
+         y="23.333376"
+         id="tspan113"> firmes contra las asechanzas del diablo</tspan></text>
+  </g>
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>GUI-sola-study-bible-1360x768.svg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -6,7 +6,7 @@ Only this README is tracked by `sola-study-bible`. Everything else in this direc
 
 ## Why this exists
 
-The public repository contains the application code, small synthetic test fixtures, and the two public sample modules under `data/`. Those public samples are enough for basic CI, but they cannot represent the variety of real MyBible modules.
+The public repository contains the application code, small synthetic test fixtures, and the two public sample modules under `public_modules/`. Those public samples are enough for basic CI, but they cannot represent the variety of real MyBible modules.
 
 A full corpus contains copyrighted translations, commentaries, dictionaries, and user data that must not be redistributed under the project's GPLv3 license. Keep that corpus in a private repository and clone it here for local testing.
 
